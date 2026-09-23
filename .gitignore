@@ -1,0 +1,28 @@
+# Compiled C++ files
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug/build folders
+build/
+bin/
+Debug/
+Release/
+
+# VS Code local configuration
+.vscode/
+
+# Code Runner generated files
+*.ilk
+*.pdb
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
